@@ -22,17 +22,10 @@ To get started with this project, follow these steps:
 1. **Fork the repository**: Click the "Fork" button at the top right of this page.
 2. **Clone your fork**:
     ```bash
-    git clone https://github.com/your-username/css-components-library.git
+    git clone https://github.com/rembalevaishnavi/css-components-library.git
     cd css-components-library
     ```
-3. **Install dependencies** (if applicable):
-    ```bash
-    npm install
-    ```
-4. **Run the project**:
-    ```bash
-    npm start
-    ```
+
 
 ## Contributing
 
